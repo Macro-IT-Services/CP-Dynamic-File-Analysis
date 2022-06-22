@@ -1,11 +1,4 @@
-# CP-Dynamic-File-Analysis
-
-Dynamic File Analysisis a tool which allows a suspected file to be launched in a virtual machine, such as a malware analysis environment, and get the report based on what it does. The file is graded on what it does upon execution, rather than relying on signatures for identification of threats. This enables dynamic analysis to identify threats that are unlike anything that has ever been seen before. 
-
-
-----
-
-## Dynamic file analysis
+# Dynamic file analysis
 
 Dynamic file analysis combines several sandboxing approaches for behavioral profiling to cluster and identify similarities in malware behavior and identify complex threats. Powerful rules allow you to identify patterns of behavior that are specific to families and strains of malware, or to pinpoint the exact malicious intent of the malware itself.
 Dynamic file analysis uses a set of techniques to develop intelligence, including probabilistic prediction, feature extraction, and context generation.
